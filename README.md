@@ -1,2 +1,2 @@
 # real-fake-plants
-Program for process vessel design and optimization
+Files for process vessel design and optimization program
